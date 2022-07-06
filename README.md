@@ -1,9 +1,14 @@
-- 👋 Oi, eu sou @Phlavya
-- 👀 I’m interested in compartilhar e aprender
-- 🌱 I’m currently learning programação e desenvolvimento de games
+
+👨‍💻 # Oi, eu sou @Phlavya!
+
+## Bem-vindos(as)ai meu mundo Git!👩‍🎤
+
+![NUX_Octodex](https://user-images.githubusercontent.com/105249309/177648259-10ece0c7-82b3-4211-98c8-e125487062f4.gif)
 
 
-<!---
-Phlavya/Phlavya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+ 
+
+
