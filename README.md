@@ -1,9 +1,10 @@
 
-👨‍💻 # Oi, eu sou @Phlavya!
+# Hello, i'm Phlavya!👩‍💻
 
-## Bem-vindos(as)ao meu mundo Git!👩‍🎤
+## Welcome to my metaverse world!👩‍🎤
 
-![NUX_Octodex](https://user-images.githubusercontent.com/105249309/177648259-10ece0c7-82b3-4211-98c8-e125487062f4.gif)
+![tumblr_65fe2e97667d328b3b27a0a206f5e5af_e3dc0b15_540](https://user-images.githubusercontent.com/105249309/177654178-eae2be37-e68d-428d-9c6d-b4c4513387f5.gif)
+
 
 
 
