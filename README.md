@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Phlavya
+- 👋 Oi, eu sou @Phlavya
 - 👀 I’m interested in compartilhar e aprender
 - 🌱 I’m currently learning programação e desenvolvimento de games
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Phlavya/Phlavya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
